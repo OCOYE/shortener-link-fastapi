@@ -1,3 +1,4 @@
+Requirements:
 annotated-doc==0.0.7
 annotated-types==0.8.0
 anyio==4.16.0
@@ -16,3 +17,7 @@ typing-inspection==0.4.5
 typing_extensions==4.16.0
 uvicorn==0.54.0
 validators==0.36.0
+
+# What is that?
+A backend script wrote in python (using fastapi) thats creates link shortcuts for ur favourites websites.
+I am studying backend and I read this script from realpython.com
